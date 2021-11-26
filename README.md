@@ -2,7 +2,7 @@
       <h1>ola Bem-vindos</h1>
     <div>
       <a href="" target="_blank"><img aling="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/maur%C3%ADcio-jos%C3%A9-9898ba212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/mau%C3%ADricio-borba-9898ba212" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://github.com/mauriciojb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
      </div>
      <div>
