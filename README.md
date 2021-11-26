@@ -1,9 +1,9 @@
 <div style ="backgrund-color:black;">
       <h1>ola Bem-vindos</h1>
     <div>
-      <a hrf="" target="_blank"><img aling="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a hrf="https://www.linkedin.com/in/maur%C3%ADcio-jos%C3%A9-9898ba212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a hrf="https://github.com/mauriciojb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="" target="_blank"><img aling="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/maur%C3%ADcio-jos%C3%A9-9898ba212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://github.com/mauriciojb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
      </div>
      <div>
        <img src="https://github-readme-stats.vercel.app/api?username=mauriciojb&show_icons=true&theme=dark"/>
